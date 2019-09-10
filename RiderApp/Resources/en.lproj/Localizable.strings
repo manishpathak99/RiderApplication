@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  RiderApp
+
+  Created by MANISH PATHAK on 9/6/19.
+  
+*/
+"current_location" = "Current Location";
+"something_went_wrong" = "Something went wrong, Please try again!";
+"error" = "Error";
+"ok" = "Ok";
+"things_to_deliver" = "Things to Deliver";
+"delivery_details" = "Delivery Details";
+"check_internet_connection" = "Please check your internet connection and try again";
+"no_internet_connection" = "No Internet Connection";
+"no_more_data_available" = "No more deliveries are available";
